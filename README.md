@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgur.com/a/A2kpIiV" alt="Logo" width="200">
+  <img src="https://imgur.com/a/A2kpIiV.jpg" alt="Logo" width="200">
 
   # Teensy_Sampler_4_BEATS
 
