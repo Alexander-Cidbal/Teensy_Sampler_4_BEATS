@@ -64,12 +64,14 @@ I am using the following technologies and libraries. I would like to thank their
 ---
 ## 🚀 Instructions
 
-## **Assembly and wiring instructions and recommendations [HERE](https://www.)**
---
-**Flashing the firmware**
+### **Assembly and wiring instructions and recommendations [HERE](https://www.)**
+
+### **Flashing the firmware**
 
 1. Clone the repository using the clone button or using GIT.:
    ```bash
    git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
+   
+---
 
 ## Roadmap
