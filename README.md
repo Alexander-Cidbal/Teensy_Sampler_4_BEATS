@@ -70,11 +70,13 @@ List of main components used in this build:
 * **1x**- Teensy Audio Shield
 * **1x**- 2.0 inch TFT Display OLED LCD 
 * **16x**- Cherry MX Mechanical Switches
+* **16x**- Key caps
 * **8x**- B10k potentiometers
 * **4x**- Rotary encoders with switch
 * **3x**- Joystick module
 * **9x**- Push Button (Or more mechanical switches)
-* **1x**- Enclosure. You can use plastic containers, metal containers, recycled boxes, or even make your own cardboard box using the template in this repository. Get creative and make something amazing and original!
+* **3x**- CD74HC4067 16-Channel Digital Multiplexer Breakout Board Module
+* **1x**- Enclosure. You can use plastic containers, metal containers, recycled boxes, 3D printed case, or even make your own cardboard box using the template in this repository. Get creative and make something amazing and original!
 
 ---
 
