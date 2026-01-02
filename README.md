@@ -23,7 +23,7 @@ Concept images made in Blender
 
 1. [About](#-About)
 2. [Technologies](#-Technologies)
-3. [Instalación](#-instalación)
+3. [Instructions](#-Instructions)
 4. [Uso](#-uso)
 5. [Roadmap](#-roadmap)
 6. [Licencia](#-licencia)
@@ -48,15 +48,28 @@ I am using the following technologies and libraries. I would like to thank their
 
 * [Arduino IDE](https://www.arduino.cc/en/software/)
 * [Teensy Audio Library](https://www.pjrc.com/teensy/td_libs_Audio.html)
-* 
-* **Herramientas:** Docker, AWS, etc.
+* (Añadir más)
 
 ---
+## Features
+### Hardware
+- **16 Buttons** for finger drumming and live performance. I used key switches, because I like the clicky sensation they give. 
+- **8 Potentiometers** For controlling effects, volumes, values, etc. 
+- **4 Encoders** For ADSR control, navigation, individual control values, etc
+- **3 Joysticks** Why not make it fun and expressive? You can map values to the X and Y axes of each one. Try manipulating effects while playing live!
+- **9 Control buttons** System control. Actions like "Save", "Open", "Undo", "Quantize", etc. Shortcuts included.
 
-## 🚀 Instalación
+### Software
 
-Instrucciones paso a paso para correrlo localmente:
+---
+## 🚀 Instructions
 
-1. Clona el repositorio:
+## **Assembly and wiring instructions and recommendations [HERE](https://www.)**
+--
+**Flashing the firmware**
+
+1. Clone the repository using the clone button or using GIT.:
    ```bash
    git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
+
+## Roadmap
