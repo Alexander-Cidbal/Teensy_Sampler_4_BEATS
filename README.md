@@ -1,10 +1,14 @@
 
 <div align="center">
-  <img src="https://imgur.com/a/A2kpIiV.jpg" alt="Logo" width="200">
+  <img src="https://i.imgur.com/8T0b9uv.png" alt="Logo" height="200">
+  <img src="https://i.imgur.com/PClQnu1.png" alt="Logo" height="200">
+
+   
 
   # Teensy_Sampler_4_BEATS
 
-  ![Estado](https://img.shields.io/badge/Estado-En_Desarrollo-green)
+  ![Static Badge](https://img.shields.io/badge/State-Early_Development-%23b1fc03)
+
   ![Versión](https://img.shields.io/badge/Versión-0.0.0-orange)
 
   <p>
