@@ -10,6 +10,9 @@
   ![Status](https://img.shields.io/badge/Status-Early_Development-%23b1fc03)
   ![Version](https://img.shields.io/badge/Version-0.0.0-orange)
   ![Hardware](https://img.shields.io/badge/Hardware-Teensy_4.1-blue)
+  ---
+
+## ⚠️❗Attention! This project is in early development. Many things are still being planned and may change without notice.
 
   <p>
     A DIY sampler based on the Teensy 4.1 development board, focused on beatmaking, sampling, and live music production.
