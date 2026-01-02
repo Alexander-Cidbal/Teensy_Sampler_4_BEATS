@@ -119,8 +119,13 @@ git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-
  ### Turtorial can be found [HERE](URLexample).
 ---
 
-## 🛠 Roadmap
+## 🗺 Roadmap
 
 Cosas por hacer XD
+
+---
+## 📄 License
+
+Aún por definir, debo investigar XDe
 
 ---
